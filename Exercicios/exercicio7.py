@@ -18,10 +18,7 @@ while(negativo):
     c = int(input("Digite o termo independente: "))
 
     deltha = b**2 - 4*a*c
-    print(a)
-    print(b)
-    print(c)
-    print(deltha)
+    
     if deltha < 0:
         print("Discriminante negativo. Entre outros valores para a, b e c")
     else:
