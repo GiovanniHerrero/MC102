@@ -6,4 +6,3 @@ def inverte_lista(lista):
         lista[i],lista[len(lista) - 1 -i] = lista[len(lista) -1 -i], lista[i]
     return lista
 
-print(inverte_lista([1,2,3,4,5,6,7,8,9,10,11]))
