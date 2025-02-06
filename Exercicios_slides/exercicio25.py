@@ -3,7 +3,7 @@
 
 def divisores(x):
     divisores = list()
-    for i in range(1,(x//2)+1):
+    for i in range(1,x):
         if x%i == 0:
             divisores.append(i)
     return divisores
