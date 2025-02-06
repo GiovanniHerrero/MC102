@@ -8,4 +8,3 @@ def invertido(x):
         x = x//10
     return invertido
 
-print(invertido(12345678))
