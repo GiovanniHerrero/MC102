@@ -14,7 +14,7 @@ def eh_trinagular(x):
                 return True
         return False
     
-=
+
 
 
             
